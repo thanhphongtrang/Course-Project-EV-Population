@@ -45,12 +45,4 @@ The analysis, detailed in the `ev_washington_analysis.ipynb` notebook, follows t
     * **Market Domination:** Tesla holds a commanding market share in Washington's EV landscape.
     * **BEVs are the Preference:** Consumers in Washington strongly prefer fully electric vehicles (BEVs) over plug-in hybrids (PHEVs).
 
----
 
-## How to Run This Project
-
-1.  Clone or download the repository.
-2.  Ensure you have Python, Jupyter Notebook, pandas, numpy, matplotlib, and seaborn installed.
-3.  Place the downloaded `Electric_Vehicle_Population_Data.csv` file in the `data/` directory.
-4.  Navigate to the `notebooks/` directory.
-5.  Open and run the `ev_washington_analysis.ipynb` notebook to see the full analysis.
